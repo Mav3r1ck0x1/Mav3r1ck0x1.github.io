@@ -1,10 +1,10 @@
 # 1. Site Settings
-title               : "1010"
+title               : Mav3r1ck's Home On The Internyet
 owner               : "Mav3r1ck"
 url                : "https://mav3r1ck0x1.github.io"
 baseurl            : "/pRoJEct-VeXEd"
 permalink           : /:title/
-description         : "Mav3r1ck's Home On The Internyet"
+description         : "zzz"
 markdown            : kramdown
 statement           : "Designed by DeerRIDER, All Rights Reserved"
 bgtext              : "ABCFGHKLMNPQRSVWXYZabcdefghijklmnopqrstuvwxyz@#$%&*+-;/[]<>~" # texts randomly displayed in background
