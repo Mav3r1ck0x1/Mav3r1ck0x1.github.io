@@ -12,10 +12,10 @@ encrypted_text: true
 permalink: /
 ---
 
-# Mav3r1ck's HOME ON THE INTERNET
+# PROJECT VeXEd - HACKER-STYLE PERSONAL HOMEPAGE
 
 <br>
-> 
+> pRoJEct-NeGYa is a hacker-like, highly-customizable theme for note-keeping, personal-website or CV.
 
 ## Features
 
