@@ -2,7 +2,7 @@
 title               : Mav3r1ck's Achievement Tracker
 owner               : "Mav3r1ck"
 url                : "https://mav3r1ck0x1.github.io"
-baseurl            : "/Mav3r1ck0x1.github.io"
+baseurl            : "/"
 permalink           : /:title/
 description         : "A hacker-style note-keeping website template."
 markdown            : kramdown
